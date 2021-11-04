@@ -12,7 +12,7 @@ import time
 import threading 
 #from multiprocessing import Process
 #import threading
-client = telebot.TeleBot('1400292700:AAEMez63aoNdJVe6jWaJJ9am9Yl35MsjxH8')
+client = telebot.TeleBot('token')
 
 #1 клава
 keyboard = types.ReplyKeyboardMarkup()
